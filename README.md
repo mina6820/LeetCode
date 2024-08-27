@@ -1,10 +1,2 @@
-# LeetCode
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/mina6820/LeetCode/tree/master/0197-rising-temperature) |
-| [0577-employee-bonus](https://github.com/mina6820/LeetCode/tree/master/0577-employee-bonus) |
-| [1801-average-time-of-process-per-machine](https://github.com/mina6820/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
-<!---LeetCode Topics End-->
+#LeetCode Problems
+Welcome to my LeetCode Problems repository! This repository contains my solutions to various problems on LeetCode. It serves as a personal archive to track my progress, learn new algorithms and data structures, and improve problem-solving skills.
