@@ -13,6 +13,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
@@ -33,4 +34,12 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
