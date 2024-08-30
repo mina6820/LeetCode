@@ -9,4 +9,12 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mina6820/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1415-students-and-examinations](https://github.com/mina6820/LeetCode/tree/master/1415-students-and-examinations) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
