@@ -17,6 +17,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
+| [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
