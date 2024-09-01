@@ -15,6 +15,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/mina6820/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -23,6 +24,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -32,6 +34,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -41,6 +44,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +57,8 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/mina6820/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
