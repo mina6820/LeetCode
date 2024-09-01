@@ -21,6 +21,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1580-shuffle-the-array](https://github.com/mina6820/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mina6820/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mina6820/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1205-defanging-an-ip-address](https://github.com/mina6820/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/mina6820/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mina6820/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mina6820/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Counting
 |  |
 | ------- |
