@@ -28,6 +28,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/mina6820/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,8 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/mina6820/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
