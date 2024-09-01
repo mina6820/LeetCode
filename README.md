@@ -21,6 +21,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1580-shuffle-the-array](https://github.com/mina6820/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mina6820/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
