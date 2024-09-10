@@ -38,6 +38,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mina6820/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mina6820/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/mina6820/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -67,6 +68,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mina6820/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mina6820/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/mina6820/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mina6820/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
