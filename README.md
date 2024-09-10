@@ -22,6 +22,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mina6820/LeetCode/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/mina6820/LeetCode/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mina6820/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mina6820/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mina6820/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -108,5 +109,6 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/mina6820/LeetCode/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mina6820/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
