@@ -20,6 +20,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/mina6820/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mina6820/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/mina6820/LeetCode/tree/master/0792-binary-search) |
@@ -96,6 +97,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mina6820/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/mina6820/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Math
