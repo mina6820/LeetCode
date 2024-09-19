@@ -99,6 +99,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0151-reverse-words-in-a-string](https://github.com/mina6820/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mina6820/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mina6820/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0742-to-lower-case](https://github.com/mina6820/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/mina6820/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0979-di-string-match](https://github.com/mina6820/LeetCode/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mina6820/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
