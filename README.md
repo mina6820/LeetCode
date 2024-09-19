@@ -43,6 +43,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mina6820/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/mina6820/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2727-number-of-senior-citizens](https://github.com/mina6820/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mina6820/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mina6820/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/mina6820/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2727-number-of-senior-citizens](https://github.com/mina6820/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Counting
 |  |
 | ------- |
