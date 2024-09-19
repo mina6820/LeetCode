@@ -18,6 +18,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mina6820/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +62,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mina6820/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +91,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/mina6820/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mina6820/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/mina6820/LeetCode/tree/master/0782-jewels-and-stones) |
