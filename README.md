@@ -47,6 +47,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mina6820/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mina6820/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/mina6820/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mina6820/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -65,6 +66,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mina6820/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mina6820/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mina6820/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mina6820/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/mina6820/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mina6820/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +95,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | ------- |
 | [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/mina6820/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/mina6820/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mina6820/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0782-jewels-and-stones](https://github.com/mina6820/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mina6820/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
