@@ -15,6 +15,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1338-queries-quality-and-percentage](https://github.com/mina6820/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/mina6820/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/mina6820/LeetCode/tree/master/1415-students-and-examinations) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/mina6820/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/mina6820/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mina6820/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
