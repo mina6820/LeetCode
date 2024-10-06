@@ -28,6 +28,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mina6820/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mina6820/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/mina6820/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mina6820/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mina6820/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/mina6820/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mina6820/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mina6820/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -151,6 +153,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mina6820/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/mina6820/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mina6820/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/mina6820/LeetCode/tree/master/0917-boats-to-save-people) |
