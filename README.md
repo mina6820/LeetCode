@@ -41,6 +41,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0334-increasing-triplet-subsequence](https://github.com/mina6820/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mina6820/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/mina6820/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/mina6820/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/mina6820/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/mina6820/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/mina6820/LeetCode/tree/master/0979-di-string-match) |
@@ -185,4 +186,8 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mina6820/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mina6820/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
