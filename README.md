@@ -23,6 +23,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1415-students-and-examinations](https://github.com/mina6820/LeetCode/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/mina6820/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/mina6820/LeetCode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/mina6820/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/mina6820/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/mina6820/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mina6820/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
