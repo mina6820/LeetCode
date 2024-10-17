@@ -91,6 +91,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1894-merge-strings-alternately](https://github.com/mina6820/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mina6820/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mina6820/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3195-separate-black-and-white-balls](https://github.com/mina6820/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +145,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2292-counting-words-with-a-given-prefix](https://github.com/mina6820/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/mina6820/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/mina6820/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3195-separate-black-and-white-balls](https://github.com/mina6820/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0605-can-place-flowers](https://github.com/mina6820/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/mina6820/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/mina6820/LeetCode/tree/master/0979-di-string-match) |
+| [3195-separate-black-and-white-balls](https://github.com/mina6820/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
