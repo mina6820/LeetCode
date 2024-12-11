@@ -25,6 +25,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1773-percentage-of-users-attended-a-contest](https://github.com/mina6820/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/mina6820/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/mina6820/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1908-recyclable-and-low-fat-products](https://github.com/mina6820/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/mina6820/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/mina6820/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/mina6820/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
