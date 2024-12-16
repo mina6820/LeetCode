@@ -68,6 +68,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/mina6820/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/mina6820/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mina6820/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -172,6 +174,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mina6820/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/mina6820/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mina6820/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +194,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mina6820/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
