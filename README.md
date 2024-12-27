@@ -215,4 +215,20 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1046-max-consecutive-ones-iii](https://github.com/mina6820/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mina6820/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mina6820/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/mina6820/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/mina6820/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/mina6820/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/mina6820/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
