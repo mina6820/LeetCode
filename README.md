@@ -73,6 +73,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2714-left-and-right-sum-differences](https://github.com/mina6820/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/mina6820/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mina6820/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0782-jewels-and-stones](https://github.com/mina6820/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mina6820/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mina6820/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mina6820/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2608-count-the-digits-that-divide-a-number](https://github.com/mina6820/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mina6820/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mina6820/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
 | ------- |
