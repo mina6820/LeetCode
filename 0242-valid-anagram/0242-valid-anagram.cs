@@ -1,14 +1,32 @@
 public class Solution {
     public bool IsAnagram(string s, string t) {
-        char[] sArray = s.ToCharArray();
-        Array.Sort(sArray);
+        if(s.Length != t.Length)
+        {
+            return false;
+        }
 
-        char[] tArray = t.ToCharArray();
-        Array.Sort(tArray);
+        Dictionary<char, int> sDictionary = new Dictionary<char, int>();
+        Dictionary<char, int> tDictionary = new Dictionary<char, int>();
 
-        string sortedS = new string(sArray);
-        string sortedT = new string(tArray);
+        for (int i = 0; i < s.Length; i++)
+        {
+            if (sDictionary.ContainsKey(s[i])) sDictionary[s[i]]++;
+            else sDictionary.Add(s[i], 1);
 
-        return sortedS == sortedT;
+            if (tDictionary.ContainsKey(t[i])) tDictionary[t[i]]++;
+            else tDictionary.Add(t[i], 1);
+        }
+
+
+        foreach (var c in sDictionary)
+        {
+            tDictionary.TryGetValue(c.Key, out int tCount);
+            if (c.Value != tCount)
+            {
+               return false;
+            }
+        }
+
+        return true;
     }
 }
