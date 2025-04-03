@@ -1,23 +1,18 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-            // Key is the number, Vlaue is the index
-            Dictionary<int , int> keyValuePairs = new Dictionary<int , int>();
 
-            for (int i = 0; i < nums.Length; i++)
+       Dictionary<int, int> dict = new Dictionary<int, int>();
+        for (int i = 0; i < nums.Length; i++)
+        {
+            if (dict.ContainsKey(target - nums[i]))
             {
-                int complement = target - nums[i];
-
-                if(keyValuePairs.ContainsKey(complement))
-                {
-                    return new int[] { keyValuePairs[complement], i };  
-                    
-                }
-                else
-                {
-                    keyValuePairs[nums[i]] = i;        
-                }
+                return new int[] { dict[target - nums[i]], i };
             }
-            // if no solution return empty array
-            return new int[0];
+            else
+            {
+                dict[nums[i]] = i;
+            }
+        }
+        return new int[0];
     }
 }
