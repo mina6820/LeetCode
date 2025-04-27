@@ -74,6 +74,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [2727-number-of-senior-citizens](https://github.com/mina6820/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mina6820/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/mina6820/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
