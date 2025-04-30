@@ -55,6 +55,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [0917-boats-to-save-people](https://github.com/mina6820/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/mina6820/LeetCode/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/mina6820/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mina6820/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mina6820/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mina6820/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mina6820/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -179,6 +180,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mina6820/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mina6820/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mina6820/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/mina6820/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mina6820/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
