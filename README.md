@@ -63,6 +63,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1603-running-sum-of-1d-array](https://github.com/mina6820/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mina6820/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mina6820/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mina6820/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/mina6820/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mina6820/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mina6820/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -120,6 +121,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mina6820/LeetCode/tree/master/0136-single-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mina6820/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +183,7 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 | [1146-greatest-common-divisor-of-strings](https://github.com/mina6820/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mina6820/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mina6820/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mina6820/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/mina6820/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mina6820/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mina6820/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -240,4 +243,16 @@ You are welcome to visit my Leet Code Account: https://leetcode.com/u/Mina_Medha
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mina6820/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mina6820/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mina6820/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mina6820/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
